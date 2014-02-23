@@ -1,0 +1,62 @@
+This game is almost 
+meaningless. An only 
+meaning of this game 
+is to try to beat 
+other player's best 
+score. But you can 
+do something easier, 
+like simply delete 
+top score file from 
+main directory of 
+this game, or better 
+don't play this dam 
+annoying game at all.
+
+If you have decided, 
+ore have been forced 
+to play this game, 
+you must know 
+something about it.
+
+Game is controlled 
+by fee buttons, 
+which can be 
+redefined (redefined 
+can be only controls 
+in game not in 
+menus). Game 
+contains three basic 
+types of figures and 
+9 speed levels that 
+increase time that 
+can be spent by 
+playing this annoying 
+game called Tetris. 
+Before start to play 
+game you are able to 
+co figurate almost 
+all parameters of 
+game (like level, 
+type, grid, sound, 
+next, and redefine 
+controls). During the 
+game you can't change 
+only two parameters: 
+level and type. Score 
+is influenced by 
+level, type and 
+visibility of next 
+falling cube (with 
+can be changed 
+during the game). 
+Player is able to 
+save some progress 
+in game. Process can 
+be saved during the 
+game. There are only 
+few slots for saves, 
+if all slots are 
+used, during the 
+game you can delete 
+some 
+(or all of course).

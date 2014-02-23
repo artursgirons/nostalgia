@@ -1,0 +1,20 @@
+Procedure Help;
+Var ch:Char;
+Begin
+  Textcolor(10);
+  Gotoxy(12,5);
+  Write('H E L P');
+  Gotoxy(1,11);
+  Textcolor(7);
+  WriteLn('    Move left  - Left        ');
+  Writeln('    Move right - Right       ');
+  Writeln('    Rotate     - Up,Space    ');
+  Writeln('    Drop       - Down        ');
+  Writeln('    Pause      - P           ');
+  Writeln('    Main menu  - Esc         ');
+  Gotoxy(13,30);
+  TextColor(10);
+  Writeln('Done');
+  Repeat If KeyPressed then ch:=ReadKey until (Ord(ch)=13)or(Ord(ch)=27);
+  Halt;
+End;
